@@ -6,6 +6,17 @@ Anggota kelompok:
 2. Cherylene Trevina 5027201033
 3. Fatih Rian Hibatul Hakim 5027201066
 
+## Daftar Isi
+
+* [Topologi](#topologi)
+* [Nomor 1 & 2](#nomor-1--2) & [Jawaban](#jawaban-nomor-1--2)
+* [Nomor 3 - 6](#nomor-3---6)
+	* [Jawaban 3](#jawaban-nomor-3)
+	* [Jawaban 4](#jawaban-nomor-4)
+	* [Jawaban 5](#jawaban-nomor-5)
+	* [Jawaban 6](#jawaban-nomor-6)
+* [Nomor 7](#nomor-7) & [Jawaban](#jawaban-nomor-7)
+
 ## Topologi
 
 ![Topologi](images/topologi.png)
