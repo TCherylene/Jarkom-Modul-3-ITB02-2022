@@ -7,7 +7,7 @@ Cherylene Trevina 5027201033
 Fatih Rian Hibatul Hakim 5027201066
 
 ## Topologi
-* [Bentuk Topologi](#bentuk-topologi)
+![Topologi](images/topologi.png)
 
 ## Nomor 1 & 2
 
